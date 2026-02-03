@@ -126,7 +126,7 @@ export default function ValentineProposal() {
                                 {/* Proposal Text */}
                                 <div className="text-center mb-6">
                                     <h1 className="text-[#181112] tracking-tight text-3xl md:text-4xl font-bold leading-tight mb-2">
-                                        Will you be my <span className="text-primary">Valentine?</span>
+                                        Will you be my Valentine Shounak?
                                     </h1>
                                     <p className="text-[#896168] text-base">
                                         I've been thinking of asking you this for a while...
